@@ -4,7 +4,7 @@ Responsive static website for Complete Auto Repair in Irving, Texas.
 
 - Phone: (408) 242-4903
 - Address: 310 E Pioneer Dr, Irving, TX 75061
-- Hours: 9:00 AM–6:00 PM. Open days are not yet specified; the website asks visitors to call to confirm.
+- Hours: Open all 7 days, Monday–Sunday, 9:00 AM–6:00 PM.
 
 ## Preview
 
