@@ -17,3 +17,7 @@ The existing `CNAME` is preserved for `completeautorepairtx.com`. GitHub Pages h
 ## Shop photo
 
 `assets/shop-exterior.jpg` is the shop exterior photo selected from the By owner collection on the owner-supplied Google Maps listing for Complete Auto Repair. It is stored locally so the site does not depend on a Google image URL.
+
+## November promotion
+
+Thanksgiving flyer: `assets/thanksgiving-road-trip-flyer.png`. The website includes the offer in readable HTML and a downloadable flyer. Offer: free basic pre-trip check with any oil change or repair service, valid through November 30, 2026. Remove or update the promotion after expiry.
